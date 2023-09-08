@@ -1,4 +1,5 @@
 # FORK this starter file and save it to your own Repl.it account.
+
 # Declare and initialize the 12 variables here:
 date = "Monday 2019-03-18"
 time = "10:05:34 AM"
@@ -50,3 +51,4 @@ print('* Clear for takeoff: YES')
 
 
 # BONUS: Use input to prompt the user to enter the number of astronauts going on the mission.
+#
